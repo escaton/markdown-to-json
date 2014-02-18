@@ -1,0 +1,17 @@
+{
+    "name": "markdown-to-json",
+    "version": "0.0.1",
+    "author": "Egor Blinov <escaton@yandex-team.ru>",
+    "description": "markdown to json",
+    "contributors": [],
+    "main": "./lib/index.js",
+    "dependencies": {
+        "marked": "*"
+    },
+    "devDependencies": {
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.8"
+    }
+}
